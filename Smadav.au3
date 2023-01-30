@@ -11,10 +11,10 @@ ControlClick("Smadav", "", "[CLASS:Button; INSTANCE:1]")
 WinWaitActive("Smadav - Registration")
 
 # Enter the name in the "Name" field
-ControlSetText("Smadav - Registration", "", "[CLASS:Edit; INSTANCE:1]", "Your Name")
+ControlSetText("Smadav - Registration", "", "[CLASS:Edit; INSTANCE:1]", "MAX08")
 
 # Enter the key in the "Key" field
-ControlSetText("Smadav - Registration", "", "[CLASS:Edit; INSTANCE:2]", "Your Key")
+ControlSetText("Smadav - Registration", "", "[CLASS:Edit; INSTANCE:2]", "995299250540")
 
 # Click the "OK" button to register
 ControlClick("Smadav - Registration", "", "[CLASS:Button; INSTANCE:1]")
