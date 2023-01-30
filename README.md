@@ -13,11 +13,15 @@ Smadav automatic registration tool written in **AutoIt** scripting language
 - [License](#license)
 
 ## Registration
-Name
+
+>**Note**:
+> Smadav Pro 2023 Registration [Name](#name) and [Key](#key)
+
+###### Name
 ```
 MAX08
 ```
-Key
+###### Key
 ```
 995299250540
 ```
