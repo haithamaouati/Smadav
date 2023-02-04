@@ -15,7 +15,7 @@ Smadav automatic registration tool written in **AutoIt** scripting language
 ## Registration
 
 >**Note**:
-> Smadav Pro 2023 Registration [Name](#name) and [Key](#key)
+> Smadav Pro 2023 Registration [name](#name) and [key](#key)
 
 ###### Name
 ```
